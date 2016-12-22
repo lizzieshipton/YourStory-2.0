@@ -58,7 +58,7 @@
     "redux-thunk": "^2.1.0",
     "request": "^2.79.0",
     "sequelize": "^3.24.8",
-    "sequelize-cli": "^2.5.1",
+    "sequelize-tools": "0.0.3",
     "undefined": "^0.1.0",
     "underscore": "^1.8.3",
     "webpack": "^1.13.3"
